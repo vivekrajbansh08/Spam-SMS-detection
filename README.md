@@ -11,7 +11,7 @@ To run the project, you need the following dependencies:
 *matplotlib
 
 # Usage
-1. Clone the repository or download the project files.
+1.Clone the repository or download the project files.
 
 2.Place the sms_spam_dataset.csv file in the project directory.
 
